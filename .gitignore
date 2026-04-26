@@ -8,3 +8,5 @@ test-ledger
 .idea
 .vscode
 *.log
+.cargo-home/
+cargohome/
